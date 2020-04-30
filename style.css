@@ -2,14 +2,25 @@ body {
     margin: 0 auto;
     max-width: 50em;
     font-family: 'Helvetica', 'Arial', sans-serif;
-    line-height: 1.5;
+    line-height: 1;
 
     color: #333;
 }
 .vali {
+    line-height: 3;
 }
 .sis {
-    margin-left: 7.5em;
-    padding-left: 7.5em;
+    margin-left: 10em;
+    padding-left: 10em;
     max-width: 30em;
 }   
+.sis2 {
+    margin-left: 11.5em;
+
+}    
+.sis3 {
+    margin-left: 32em;
+}  
+.sis4  {
+    margin-left: 38.5em; 
+}
